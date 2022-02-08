@@ -1,0 +1,7 @@
+.card {
+  background: wheat;
+  border-color: brown;
+  box-shadow: gray;
+  border-radius: 10rem;
+  padding: 2rem;
+}

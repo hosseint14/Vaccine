@@ -1,0 +1,15 @@
+.header{
+      font-size: large;
+      background-color: darkred;
+      background-image: linear-gradient(red,whitesmoke);
+      padding: 2rem;
+      border-radius: 10rem;
+      display: flex;
+      justify-content: center;
+}
+
+.header p{
+      color: whitesmoke;
+}
+
+

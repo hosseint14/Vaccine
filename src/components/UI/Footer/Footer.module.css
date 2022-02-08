@@ -1,0 +1,10 @@
+.footer {
+  font-size: large;
+  background-color: darkred;
+  background-image: linear-gradient(darkred, red);
+  border-radius: 10rem;
+  display: flex;
+  color: whitesmoke;
+  justify-content: center;
+  font-size: xx-large;
+}

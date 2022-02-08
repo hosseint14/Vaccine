@@ -1,0 +1,11 @@
+.person{
+      color: rgb(117, 53, 117);
+
+      font-style: bold;
+}
+
+.list{
+      font-size: larger;
+      padding: 2rem;
+      justify-content: space-between;
+}

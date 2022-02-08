@@ -1,0 +1,13 @@
+.input {
+  color: indianred;
+  display: flex;
+  justify-content: space-between;
+}
+
+.input input {
+  border-radius: 10rem;
+}
+
+.input select{
+      border-radius: 10rem;
+}
